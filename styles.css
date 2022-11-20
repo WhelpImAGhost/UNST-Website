@@ -35,6 +35,12 @@ nav{
 
 }
 
+.names {
+
+    font-size: 15px;
+    font-style: oblique;
+}
+
 .navtext {
 
     float: left;
